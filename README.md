@@ -10,8 +10,8 @@
 3. Technical Toolkit Used
   KPI Tracking: Calculated YoY% and Sales QTD using [DAX for Power BI / Advanced Excel Formulas]
 
-Advanced Visuals: Utilized Decomposition Trees for root-cause analysis and Trend Lines for seasonality forecasting.
+  Advanced Visuals: Utilized Decomposition Trees for root-cause analysis and Trend Lines for seasonality forecasting.
 
-Data Cleaning: Processed a complex dataset with 50+ columns, including Ship Modes, Product Categories, and Regional hierarchies.
+  Data Cleaning: Processed a complex dataset with 50+ columns, including Ship Modes, Product Categories, and Regional hierarchies.
 
-<img width="1419" height="797" alt="Screenshot 2026-04-23 103634" src="https://github.com/user-attachments/assets/4ea7586f-7eb7-484b-81c5-2ccc4507cd49" />
+  <img width="1419" height="797" alt="Screenshot 2026-04-23 103634" src="https://github.com/user-attachments/assets/4ea7586f-7eb7-484b-81c5-2ccc4507cd49" />
